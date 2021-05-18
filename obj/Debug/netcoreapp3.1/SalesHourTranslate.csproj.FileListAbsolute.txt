@@ -1,0 +1,13 @@
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\bin\Debug\netcoreapp3.1\SalesHourTranslate.exe
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\bin\Debug\netcoreapp3.1\SalesHourTranslate.deps.json
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\bin\Debug\netcoreapp3.1\SalesHourTranslate.runtimeconfig.json
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\bin\Debug\netcoreapp3.1\SalesHourTranslate.runtimeconfig.dev.json
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\bin\Debug\netcoreapp3.1\SalesHourTranslate.dll
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\bin\Debug\netcoreapp3.1\SalesHourTranslate.pdb
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\obj\Debug\netcoreapp3.1\SalesHourTranslate.csprojAssemblyReference.cache
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\obj\Debug\netcoreapp3.1\SalesHourTranslate.AssemblyInfoInputs.cache
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\obj\Debug\netcoreapp3.1\SalesHourTranslate.AssemblyInfo.cs
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\obj\Debug\netcoreapp3.1\SalesHourTranslate.csproj.CoreCompileInputs.cache
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\obj\Debug\netcoreapp3.1\SalesHourTranslate.dll
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\obj\Debug\netcoreapp3.1\SalesHourTranslate.pdb
+C:\Workspace\NetCore\SalesHour-Playground\SalesHourTranslate\obj\Debug\netcoreapp3.1\SalesHourTranslate.genruntimeconfig.cache
