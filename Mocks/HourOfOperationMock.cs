@@ -12,14 +12,14 @@ namespace SalesHourTranslate.Mocks
             Monday = new HourOfOperation
             {
                 Day = "Monday",
-                OpenTime = DateTime.Parse("2021-04-26T09:33:00Z"),
+                OpenTime = DateTime.Parse("2021-04-26T01:33:00Z"),
                 CloseTime = DateTime.Parse("2021-04-26T08:33:00Z")
             },
             Tuesday = new HourOfOperation
             {
                 Day = "Tuesday",
-                OpenTime = DateTime.Parse("2021-04-26T09:33:00Z"),
-                CloseTime = DateTime.Parse("2021-04-26T08:33:00Z")
+                OpenTime = DateTime.Parse("2021-04-26T06:33:00Z"),
+                CloseTime = DateTime.Parse("2021-04-26T18:33:00Z")
             },
             Wednesday = new HourOfOperation
             {

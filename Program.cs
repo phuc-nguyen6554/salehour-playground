@@ -21,7 +21,10 @@ namespace SalesHourTranslate
 
             foreach(var item in data)
             {
-                str += $"From {item.Start.Day} to {item.End.Day} {item.Start.OpenTime.Value.ToShortTimeString()} {item.Start.CloseTime.Value.ToShortTimeString()}";
+                if (item.End != null)
+                    str += $"From {item.Start.Day} to {item.End.Day} {item.Start.OpenTime.Value.ToShortTimeString()}-{item.Start.CloseTime.Value.ToShortTimeString()} \n";
+                else
+                    str += $"{item.Start.Day} {item.Start.OpenTime.Value.ToShortTimeString()}-{item.Start.CloseTime.Value.ToShortTimeString()} \n";
             }
 
             return str;
@@ -57,15 +60,15 @@ namespace SalesHourTranslate
                     }
                     else
                     {
-                        //TranslateDataList.Add(translateData);
-
-                        translateData = new TranslateModel();
+                        firstDay = (HourOfOperation)day.GetValue(data);
+                        translateData = new TranslateModel
+                        {
+                            Start = firstDay
+                        };
                         TranslateDataList.Add(translateData);
                         index += 1;
-                        firstDay = null;
                     }
                 }
-
             }
         }
     }
